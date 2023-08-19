@@ -19,3 +19,6 @@ ipython_config.py
 
 # JetBrains IDEs
 .idea
+
+# images
+*.png
